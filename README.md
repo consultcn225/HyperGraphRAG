@@ -61,7 +61,6 @@ If you find this work is helpful for your research, please cite:
  volume = {38},
  year = {2025}
 }
-
 ```
 
 For further questions, please contact: haoran.luo@ieee.org.
