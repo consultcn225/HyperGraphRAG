@@ -50,15 +50,18 @@ print(result)
 If you find this work is helpful for your research, please cite:
 
 ```bibtex
-@misc{luo2025hypergraphrag,
-      title={HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation}, 
-      author={Haoran Luo and Haihong E and Guanting Chen and Yandan Zheng and Xiaobao Wu and Yikai Guo and Qika Lin and Yu Feng and Zemin Kuang and Meina Song and Yifan Zhu and Luu Anh Tuan},
-      year={2025},
-      eprint={2503.21322},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2503.21322}, 
+@inproceedings{luo2025hypergraphrag,
+ author = {Luo, Haoran and E, Haihong and Chen, Guanting and Zheng, Yandan and Wu, Xiaobao and Guo, Yikai and Lin, Qika and Feng, Yu and Kuang, Zemin and Song, Meina and Zhu, Yifan and Luu, Anh Tuan},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {152206--152234},
+ publisher = {Curran Associates, Inc.},
+ title = {HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/df55ee6e59f8ac4a625219e11fe9ddba-Paper-Conference.pdf},
+ volume = {38},
+ year = {2025}
 }
+
 ```
 
 For further questions, please contact: haoran.luo@ieee.org.
